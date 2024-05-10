@@ -21,6 +21,11 @@ ul.images {
     transition: all .2s ease-in-out; 
     }
     
-    .grow:hover { 
+  .grow:hover { 
     transform: scale(1.1); 
     }
+
+  .bg-network{
+    background-image: url('images/pexels-alexant-4585185.jpg');
+    background-position: center;
+  }
